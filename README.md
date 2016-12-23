@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to Liferay Backend Guild
 
-You can use the [editor on GitHub](https://github.com/migue/liferay-backend-guild/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Here you will find all the topics, resources, announcements, ... of the Liferay Backend guild.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Guild goals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main goals of the guild are detailed below
 
-```markdown
-Syntax highlighted code block
+## Act as the glue between the different teams
 
-# Header 1
-## Header 2
-### Header 3
+## Spread the knowledge of the technologies/products/tools we  use on a daily basis.
 
-- Bulleted
-- List
+## Promote a continous learning culture.
 
-1. Numbered
-2. List
+## Promote Liferay culture
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/migue/liferay-backend-guild/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Promote quality
