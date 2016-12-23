@@ -2,7 +2,7 @@
 
 ## Session Info
 
-**Drivers**: Igor Beslic, Ivica Cardic, Mladen Cikara
+**Drivesr**: Igor Beslic, Ivica Cardic, Mladen Cikara
 
 **Date and Time**: TBA
 
