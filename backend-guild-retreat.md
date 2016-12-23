@@ -12,7 +12,7 @@ Bellow you can find all the activities and the links to the pages with the detai
 
 This workshop will guide you through all the Declarative Service fundamentals as well as through all the gory details. Do you know what a component is? How to configure it? Do you know how the dynamic binding works? All these concepts, and many more, will be covered in this workshop
 
-[Workshop details](/retreat/ds.html)
+[Workshop details]({{ site.url }}/retreat/ds.html)
 
 
 ## Service Builder: Deep Dive
