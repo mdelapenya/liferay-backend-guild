@@ -2,7 +2,7 @@
 
 ## Session Info
 
-**Driver**: Manuel de la Peña, Circo Costa
+**Driver**: Manuel de la Peña, Ciro Costa
 
 **Date and Time**: TBA
 
