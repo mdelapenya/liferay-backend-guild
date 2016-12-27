@@ -7,6 +7,12 @@ title: 2017 Los Angeles Retreat
 
 Bellow you can find all the activities and the links to the pages with the detailed contents of every activity
 
+## Teams introduction
+
+The goal of this is that every team introduces themselves, show what kind of things they do, and what their plans for the year are
+
+[Workshop details](retreat/teams.html)
+
 
 ## Declarative Services: Deep Dive
 
@@ -26,6 +32,12 @@ Service Builder is one of the most popular frameworks used amongst Liferay devel
 This is an unknown topic for many engineers. The goal of this workshop will be to introduce them into the performance world: how you can measure things, available tools, common mistakes. Once the workshop is done, you won’t be an expert, but, hopefully, we’ll provide you a good starting point in case you wanna/need to go deeper
 
 [Workshop details](retreat/performance.html)
+
+## A review of the year and planning the future
+
+The concept of the guild has not been really enforced during this year, and we’re trying to fix it, but we’d like to discuss what we’ve done in this year, and what kind of things we want to achieve in the future
+
+[Workshop details](retreat/future.html)
 
 ##  Machine Learning: An introduction
 
