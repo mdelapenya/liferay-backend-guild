@@ -2,7 +2,7 @@
 
 ## Session Info
 
-**Drivesr**: Henrique Vicente
+**Drivers**: Henrique Vicente
 
 **Date and Time**: TBA
 
