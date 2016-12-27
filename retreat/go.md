@@ -1,8 +1,8 @@
-# Cloud deployments: A gentle introduction to AWS
+# New programming languages: Go
 
 ## Session Info
 
-**Drivesr**: Igor Beslic, Ivica Cardic, Mladen Cikara
+**Drivesr**: Henrique Vicente
 
 **Date and Time**: TBA
 

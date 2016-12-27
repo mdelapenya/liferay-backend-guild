@@ -63,11 +63,18 @@ With the release of Liferay 7 we’ve finally moved to Java 8 (yay!). The goal o
 
 [Workshop details](retreat/java8.html)
 
-## New programming languages
+## New programming languages: Go
 
 Not everything is Java out there. There’re hundreds of different programming languages available In this workshop we’ll learn the fundamentals of the Go programming language, how we’re already using it and why it is “popular” amongst many open source projects
 
 [Workshop details](retreat/go.html)
+
+## New programming languages: ??
+
+TBA
+
+[Workshop details](retreat/TBA.html)
+
 
 ## Security Tooling (2h)
 
