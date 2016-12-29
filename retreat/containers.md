@@ -13,5 +13,6 @@
     - Networking
     - Persistence
     - Isolating applications
-    - Exposing containers' applications
+    - Exposing containers applications
+
 ## Resources
