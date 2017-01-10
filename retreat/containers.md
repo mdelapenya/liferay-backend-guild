@@ -8,8 +8,8 @@
 
 ## Agenda
 * Why containers are so sexy?
-* Anatomy of a Container
 * Differences with virtual machines
+* Anatomy of a Container
 * Networking
 * Persistence
 * Isolating applications
