@@ -12,25 +12,24 @@ Bellow you can find all the activities and the links to the pages with the detai
 |         Wednesday Activities    | 
 |----------|:-------------:|
 | 9:00 - 10:00     |  [Teams introduction](retreat/teams.html) |
-| 10:00 - 12:00    |  [Declarative Services: Deep Dive](retreat/ds.html) |
-| 13:30:00 - 15:30 |  [Performance: A brief introduction](retreat/teams.html) |
+| 10:00 - 12:00    |  [A review of the year and planning the future](retreat/future.html) |
+| 13:30:00 - 15:30 |  [Declarative Services: Deep Dive](retreat/ds.html)|
 | 15:30:00 - ??    |  Time for the teams |
 
 
 |         Thursday Activities    | 
 |----------|:-------------:|
-| 9:00 - 11:00     |  [A review of the year and planning the future](retreat/future.html) |
+| 9:00 - 11:00     |  [Cloud deployments: A gentle introduction to AWS](retreat/cloud.html) |
 | 10:00 - 13:00    |  [Machine Learning: An introduction](retreat/ml.html) |
 | 14:30 - 16:30    |  [Containers: An introduction](retreat/containers.html) |
-| 16:30 - 18:30    |  [Cloud deployments: A gentle introduction to AWS](retreat/cloud.html) |
+| 16:30 - 18:30    |  [Security Tooling](retreat/security.html) |
 
 
 |         Friday Activities    | 
 |----------|:-------------:|
 | 9:00 - 11:00     |  [New programming languages: Go](retreat/go.html) |
-| 11:00 - 13:00    |  [Java 8: An intro to the functional programming world](retreat/java8.html) |
-| 14:30 - 16:30    |  [Security Tooling](retreat/security.html) |
-| 14:30:00 - ??    |  Time for the teams |
+| 11:00 - 13:00    |  [Java 8: A whole new world](retreat/java8.html) |
+| 14:30 - ??       |  Time for the teams |
 
 
 ## Teams introduction (1 hour)
@@ -80,7 +79,7 @@ Do you know how to deploy your apps a Cloud provider? Do you know how to scale t
 
 [Workshop details](retreat/cloud.html)
 
-## Java 8: An intro to the functional programming world (2 hours)
+## Java 8: a whole new world (2 hours)
 
 With the release of Liferay 7 we’ve finally moved to Java 8 (yay!). The goal of this workshop is to learn how we can leverage the new features provided by Java 8 which help us to write better code. But not only that, we also pretend to introduce you to the functional programming world, an old programming paradigm which is gaining traction nowadays (yes, we’ll talk about monads)
 
