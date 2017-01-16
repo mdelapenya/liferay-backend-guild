@@ -19,7 +19,7 @@
 Containers are rocking the IT scene, but why? We'll see a brief introduction to the benefits of using containers.
 
 ### Differences with virtual machines
-But why not using virtual machines? Let's see the diferences between hardware virtualizacion and operative system virtualization.
+But why not using virtual machines? Let's see the diferences between hardware virtualization and operative system virtualization.
 
 ### Anatomy of a Container
 A container representes a reduced operative system, but how is it possible? We'll see how Linux capabilities allows isolating process hierarchies, network stacks, resources access and so on.
