@@ -44,12 +44,6 @@ This workshop will guide you through all the Declarative Service fundamentals as
 
 [Workshop details](retreat/ds.html)
 
-## Performance: A brief introduction (2 hours)
-
-This is an unknown topic for many engineers. The goal of this workshop will be to introduce them into the performance world: how you can measure things, available tools, common mistakes. Once the workshop is done, you won’t be an expert, but, hopefully, we’ll provide you a good starting point in case you wanna/need to go deeper
-
-[Workshop details](retreat/performance.html)
-
 ## Time for the teams
 
 Every team can use this time depending their needs
