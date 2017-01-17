@@ -10,7 +10,7 @@
 * Why containers are so sexy?
 * Differences with virtual machines
 * Anatomy of a Container
-* Networking
+* Docker Networking
 * Persistence
 * Isolating applications
 * Exposing containers applications
@@ -24,8 +24,8 @@ But why not using virtual machines? Let's see the diferences between hardware vi
 ### Anatomy of a Container
 A container representes a reduced operative system, but how is it possible? We'll see how Linux capabilities allows isolating process hierarchies, network stacks, resources access and so on.
 
-### Networking
-How containers communicate with each others? Let's see how the network is set between containers.
+### Docker Networking
+How Docker containers communicate with each others? Let's see how the network is set between Docker containers.
 
 ### Persistence
 Stateful applications in volatile environments sounds a complex thing. Let's understand how Docker manages persistent data using volumes.
