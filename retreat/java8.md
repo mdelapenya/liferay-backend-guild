@@ -23,6 +23,9 @@
 * Collections and concurrent api improvements
   * putIfAbsent and friends
   * Use case: synchronize two maps
+* Optional<T>, CompletableFuture<T> and other monads
+  * Functor and Monadic nature
+  * What can I do with a Functor and a Monad
 
 ## Resources
 
