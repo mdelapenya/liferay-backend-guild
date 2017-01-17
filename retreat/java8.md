@@ -4,7 +4,7 @@
 
 **Driver**: Carlos Sierra
 
-**Date and Time**: TBA
+**Date and Time**: Thursday 26th, 16:30 - 18:30
 
 ## Agenda
 
