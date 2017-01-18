@@ -10,12 +10,14 @@ Containers are rocking the IT scene, but why? We'll see a brief introduction to 
 # Differences with virtual machines
 But why not using virtual machines? Let's see the diferences between hardware virtualization and operative system virtualization.
 
-    - VMs mean virtulizating hardware, containers mean virtulizating O.S.
-    - VMs need an hypervisor, containers need a container runtime (such as Docker Engine)
-    - VMs install an O.S., containers share the underlying kernel (Linux or Windows)
-    - VMs uses resources before installing the application, containers only exist when the application is run.
-    - An application has to be installed in the O.S. of the VM; an application must be the only process inside a container.
-    - An application is one process of the many processes running in a VM. An application is the `init` process (pid 1) of the container.    
+| Virtual Machines| Containers |
+| ----------------------- |--------------------|
+| Hardware virtualization | O.S. virtualization |
+| Need an hypervisor | Need a container runtime (Docker Engine) |
+| Install full blown O.S. | Share the underlying kernel (Linux or Windows) |
+| Use resources before installing the application | Only exist when the application is run* |
+| An application has to be installed in the O.S. | An application must be the only process inside a container |
+| An application is one process of the many processes running inside a VM | An application is the `init` process (pid 1) of the container|   
 
 # Anatomy of a Container
 A container representes a reduced operative system, but how is it possible? We'll see how Linux capabilities allows isolating process hierarchies, network stacks, resources access and so on.
