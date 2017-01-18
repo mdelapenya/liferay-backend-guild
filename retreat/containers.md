@@ -31,7 +31,7 @@ How Docker containers communicate with each others? Let's see how the network is
 Stateful applications in volatile environments sounds a complex thing. Let's understand how Docker manages persistent data using volumes.
 
 ### Isolating applications
-We have an application, let's put in a box and isolate from the outside world.
+We have an application, let's put it in a box and isolate from the outside world.
 
 ### Exposing containers applications
 Once our application is isolated, we need to communicate with the outside world, let's say processes' ports and data.
