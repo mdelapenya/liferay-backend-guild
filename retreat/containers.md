@@ -4,7 +4,7 @@
 
 **Driver**: Manuel de la Peña, Ciro Costa
 
-**Date and Time**: TBA
+**Date and Time**: Thursday 26th, 14:30 - 16:30 
 
 ## Agenda
 * Why containers are so sexy?
