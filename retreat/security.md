@@ -2,9 +2,9 @@
 
 ## Session Info
 
-**Drivesr**: TBA
+**Drivers**: Stian Sigvartsen
 
-**Date and Time**: TBA
+**Date and Time**: Friday 27th, 11:00 - 13:00
 
 ## Agenda
 
