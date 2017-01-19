@@ -4,7 +4,7 @@
 
 **Driver**: Raymond Augé
 
-**Date and Time**: TBA
+**Date and Time**: Wednesday 25th, 13:30:00 - 15:30
 
 ## Agenda
 
