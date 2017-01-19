@@ -87,6 +87,6 @@ Not everything is Java out there. There’re hundreds of different programming l
 
 ## Security Tooling (2h)
 
-Security is not a really know topic for many engineers. During the workshop we will learn how to use the tools we’ve built, what they help us to solve, and how they’ve been built. Hopefully this session will help us to get started into the security world.
+Security is not a really well known topic for many engineers. During the workshop we will learn how to use the tools we’ve built, what they help us to solve, and how they’ve been built. Hopefully this session will help us to get started into the security world.
 
 [Workshop details](retreat/security.html)
