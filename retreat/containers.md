@@ -34,11 +34,11 @@ Stateful applications in volatile environments sounds a complex thing. Let's und
 Once our application is isolated, we need to communicate with the outside world, let's say processes' ports and data.
  
 ## Resources
-* http://man7.org/linux/man-pages/man7/cgroups.7.html
-* https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html
-* http://man7.org/linux/man-pages/man7/namespaces.7.html
-* https://docs.docker.com/engine/userguide/networking/
-* https://docs.docker.com/engine/userguide/networking/configure-dns/
-* https://docs.docker.com/engine/userguide/networking/work-with-networks/#linking-containers-in-user-defined-networks
-* https://goto.docker.com/rs/929-FJL-178/images/wp-understanding-docker-data-storage-rev3.pdf
-* https://docs.docker.com/engine/userguide/networking/default_network/binding/
+* [](http://man7.org/linux/man-pages/man7/cgroups.7.html)
+* [](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html)
+* [](http://man7.org/linux/man-pages/man7/namespaces.7.html)
+* [](https://docs.docker.com/engine/userguide/networking)
+* [](https://docs.docker.com/engine/userguide/networking/configure-dns)
+* [](https://docs.docker.com/engine/userguide/networking/work-with-networks/#linking-containers-in-user-defined-networks)
+* [](https://goto.docker.com/rs/929-FJL-178/images/wp-understanding-docker-data-storage-rev3.pdf)
+* [](https://docs.docker.com/engine/userguide/networking/default_network/binding)
