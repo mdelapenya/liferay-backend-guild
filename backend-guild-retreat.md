@@ -20,7 +20,7 @@ Bellow you can find all the activities and the links to the pages with the detai
 |         Thursday Activities    | 
 |----------|:-------------:|
 | 9:00 - 11:00     |  [Cloud deployments: A gentle introduction to AWS](retreat/cloud.html) |
-| 10:00 - 13:00    |  [Machine Learning: An introduction](retreat/ml.html) |
+| 11:00 - 13:00    |  [Machine Learning: An introduction](retreat/ml.html) |
 | 14:30 - 16:30    |  [Containers: An introduction](retreat/containers.html) |
 | 16:30 - 18:30    |  [Java 8: A whole new world](retreat/java8.html) |
 
