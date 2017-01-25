@@ -8,6 +8,7 @@ Containers are rocking the IT scene, but why? We'll see a brief introduction to 
     - Containers should optimally provide a single service, so teams reduce the code they work on.
     - Containers should be ephemeral: if a container dies, a new one should be able to be brought up in its place with no additional configuration.
     - Resiliency increased: an exactly the same container can be started in place of the fallen one.
+    - Security increased: because containers are ephemeral, the surface of attack is reduced.
 
 ## Differences with virtual machines
 
