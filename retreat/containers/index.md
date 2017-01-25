@@ -180,8 +180,11 @@ By default Docker containers can make connections to the outside world, but the 
 As we saw before, on Docker Networking, the network we connect a container is very important to determine which containers it can communicate with. We can isolate the container/application using the `none` network, or simply chosing a different network each time we create a container.
 
 If you want containers to accept incoming connections, you will need to provide special options when invoking docker run:
+
     - `-P` or `--publish-all=true|false`: identifies every port with an EXPOSE line in the image’s Dockerfile
     - `--expose <port>`: maps it to a host port somewhere within an ephemeral port range (typically from 32768 to 61000).
     - `-p SPEC` or `--publish=SPEC`: It allows you to particularize which port on docker server - which can be any port at all, not just one within the ephemeral port range
+
 If you want to be more restrictive and only allow container services to be contacted through a specific external interface on the host machine:
+
     - `-p IP:host_port:container_port` or `-p IP::port`: to specify the external interface for one particular binding.
