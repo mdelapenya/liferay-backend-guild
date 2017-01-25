@@ -45,7 +45,7 @@ A namespace wraps a global system resource in an abstraction that makes it appea
 
 Objects created in an IPC namespace are visible to all other processes that are members of that namespace, but are not visible to processes in other IPC namespaces.
 
-#### Network (CLONE_NEWNET): Network devices, stacks, ports, etc.
+#### Network (CLONE_NEWNET): Network devices, stacks, ports, etc
 
 Network namespaces provide isolation of the system resources associated with networking: network devices, IPv4 and IPv6 protocol stacks, IP routing tables, firewalls, the `/proc/net` directory, the `/sys/class/net` directory, port numbers (sockets), and so on.  A physical network device can live in exactly one network namespace.  A virtual network device ("veth") pair provides a pipe-like abstraction that can be used to create tunnels between network namespaces, and can be used to create a bridge to a physical network device in another namespace.
 
@@ -79,7 +79,7 @@ Every process on the system has exactly one parent. Likewise, every process has 
 
 ### Docker Image format
 
-#### Layers:
+#### Layers
 
 Let's see an example: If a developer was building a Java-based web application, they would start with a base operating system. On top of that they would install Java, and finally their application code. This general process is the same whether it’s being done with Docker, on a physical box, or in a VM. However, in a case where Docker is not being used, the resulting files and subdirectories from each installation step would all be intermingled. All of the installed components are written to a single monolithic file system. By contrast, with Docker each step results in a new, isolated, read-only layer being added to the image. For instance, every Docker image starts with some base operating system layer. As components are added to this image, new layers are created. Each layer separates the newly added components from any components that were previously installed. The underlying layers remain untouched. If a newly added layer includes a file or directory that exists in a lower layer, the top most instance of that file or directory takes precedence. This is one of the fundamental ways Docker helps address scenarios like library mismatches.
 
