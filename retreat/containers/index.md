@@ -123,7 +123,7 @@ You can create multiple networks. You can add containers to more than one networ
 
 #### bridge
 
-The containers you launch into this network must reside on the same Docker host. Each container in the network can immediately communicate with other containers in the network. Though, the network itself isolates the containers from external networks. Linking is not supported, but you can expose and publish container ports on containers in this network. This is useful if you want to make a portion of the bridge network available to an outside network.ç
+The containers you launch into this network must reside on the same Docker host. Each container in the network can immediately communicate with other containers in the network. Though, the network itself isolates the containers from external networks. Linking is not supported, but you can expose and publish container ports on containers in this network. This is useful if you want to make a portion of the bridge network available to an outside network.
 
 #### docker_gwbridge
 
