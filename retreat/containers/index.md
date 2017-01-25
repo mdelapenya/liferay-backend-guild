@@ -6,7 +6,8 @@ Containers are rocking the IT scene, but why? We'll see a brief introduction to 
     - Forget about the O.S. on each deployment.
     - Less Devops code to maintain the infrastructure, as it is standardized.
     - Containers should optimally provide a single service, so teams reduce the code they work on.
-    - Containers should be ephemeral: if a container dies, a new one should be able to be brought up in its place with no additional configuration, which increases the resiliency: an exactly the same container can be started in place of the fallen one.
+    - Containers should be ephemeral: if a container dies, a new one should be able to be brought up in its place with no additional configuration.
+    - Resiliency increased: an exactly the same container can be started in place of the fallen one.
 
 ## Differences with virtual machines
 
