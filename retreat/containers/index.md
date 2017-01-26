@@ -151,7 +151,9 @@ Docker automatically creates environment variables in the target container based
 
 Docker adds a host entry for the source container to the /etc/hosts file.
 
-Creating Networks: When you create a network, Engine creates a non-overlapping subnetwork for the network by default. You can override this default and specify a subnetwork directly using the `--subnet` option. On a bridge network you can only specify a single subnet. An overlay network supports multiple subnets.
+### Creating Networks
+
+When you create a network, Engine creates a non-overlapping subnetwork for the network by default. You can override this default and specify a subnetwork directly using the `--subnet` option. On a bridge network you can only specify a single subnet. An overlay network supports multiple subnets.
 
 When you specify an IP address in this way while using a user-defined network, the configuration is preserved as part of the container’s configuration and will be applied when the container is reloaded. Assigned IP addresses are preserved when using non-user-defined networks, because there is no guarantee that a container’s subnet will not change when the Docker daemon restarts unless you use user-defined networks.
 
